@@ -31,7 +31,7 @@
         <a href="/iframe.php">
             Verze iframe
         </a>
-        <a href="/iframe.php">
+        <a href="/php.php">
             Verze php
         </a>
     </div>
