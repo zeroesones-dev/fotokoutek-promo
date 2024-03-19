@@ -43,7 +43,7 @@
     <iframe src="https://www.fotokoutek-vecerek.cz/promo" width="100%" height="100%" style="min-height: 100dvh;"
         frameborder="0"></iframe>
     <footer>
-        Partner footer
+        Partner footer content
     </footer>
 </body>
 
